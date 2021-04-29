@@ -8,9 +8,9 @@ class Translation(object):
 😅 Hai {}, 
 
 I am a filter bot with advanced features 
-currently working for **[Film_Zone](https://t.me/film_zone_group)**
+currently working for @Film_Zone_Group
 
-⚜️ 𝐌𝐚𝐢𝐧𝐭𝐚𝐢𝐧𝐞𝐝 𝐁𝐲 👉 **[DIAGO](https://t.me/diago_x)**
+⚜️ 𝐌𝐚𝐢𝐧𝐭𝐚𝐢𝐧𝐞𝐝 𝐁𝐲 👉 @DIAGO_X
 """   
     
     HELP_TEXT = """
@@ -21,21 +21,21 @@ currently working for **[Film_Zone](https://t.me/film_zone_group)**
 📌 Add Me To Your Desired Channel
 </i>
 
-<b>🔰 𝐌𝐲 𝐂𝐨𝐦𝐦𝐚𝐧𝐝𝐬 (Works Only In Groups) :</b>
+<b> 𝐌𝐲 𝐂𝐨𝐦𝐦𝐚𝐧𝐝𝐬 (Works Only In Groups) :</b>
 
-    👉 <code>/add chat_id</code>
+    🍁 <code>/add chat_id</code>
                 OR                  - To Connect A Group With A Channel (Bot Should Be Admin With Full Previlages In Both Group And Channel)
-     <code>/add @Username</code>
+    🍁 <code>/add @Username</code>
      
-    👉 <code>/del chat_id</code>
+    🍁 <code>/del chat_id</code>
                 OR                  - To disconnect A Group With A Channel
      <code>/del @Username</code>
      
-    👉 <code>/delall</code>  - This Command Will Disconnect All Connected Channel With The Group And Deletes All Its File From DB
+    🍁 <code>/delall</code>  - This Command Will Disconnect All Connected Channel With The Group And Deletes All Its File From DB
     
-    👉 <code>/settings</code> -  This Command Will Display You A Settings Pannel Instance Which Can Be Used To Tweek Bot's Settings Accordingly
+    🍁 <code>/settings</code> -  This Command Will Display You A Settings Pannel Instance Which Can Be Used To Tweek Bot's Settings Accordingly
 
-🔰 𝐒𝐄𝐓𝐓𝐈𝐍𝐆 𝐏𝐀𝐍𝐄𝐋
+⚙️ 𝐒𝐄𝐓𝐓𝐈𝐍𝐆 𝐏𝐀𝐍𝐄𝐋
 
             👉 <code>Channel</code> - Button Will Show You All The Connected Chats With The Group And Will Show Buttons Correspnding To There Order For Furthur Controls
             
