@@ -68,5 +68,5 @@ currently working for
 
 **ᴜᴘᴅᴀᴛᴇᴅ ᴏɴ 26-4-21 ɪɴᴅɪᴀɴ ᴛɪᴍᴇ 4:50 ᴘᴍ**
 
-**[©V_SPOT](https://t.me/V_spot)**
+**[©FISCO LAB](https://t.me/FISCO_LAB)**
 """
