@@ -8,10 +8,9 @@ class Translation(object):
 😅 Hai {}, 
 
 I am a filter bot with advanced features 
-currently working for 
+currently working for @{Film_zone_Group}
 
-⚜️ 𝐌𝐚𝐢𝐧𝐭𝐚𝐢𝐧𝐞𝐝 𝐁𝐲 👉 <b><a href="https://t.me/Diago_x">Diago</a></b>
-"""
+⚜️ 𝐌𝐚𝐢𝐧𝐭𝐚𝐢𝐧𝐞𝐝 𝐁𝐲 👉 @{Diago_x}
 """   
     
     HELP_TEXT = """
@@ -46,12 +45,12 @@ currently working for
             
             👉 <code>Status</code> - Button Will Shows The Stats Of Your Channel
             
-<b><a href="https://t.me/FISCO_LAB">©️ FISCO LAB</a></b>
+<b><a href="https://t.me/Fisco_lab">©️ Fiscolab's ʙᴏᴛs</a></b>
 """
     
     ABOUT_TEXT = """
 📕 𝐀𝐛𝐨𝐮𝐭 𝐌𝐞 ,
-\n○ ᴍʏ ɴᴀᴍᴇ : Max
+\n○ ᴍʏ ɴᴀᴍᴇ : {Omega}
 
 ○ ʟᴀɴɢᴜᴀɢᴇ : ᴘʏᴛʜᴏɴ 
 
@@ -61,12 +60,11 @@ currently working for
 
 ○ ᴠᴇʀsɪᴏɴ : 1.0.0
 
-○ sᴏᴜʀᴄᴇ ᴄᴏᴅᴇ : 🔐
+○ sᴏᴜʀᴄᴇ ᴄᴏᴅᴇ : 🔒
 
-○ ᴄʀᴇᴀᴛᴏʀ : <b><a href="https://t.me/Diago_x">Diago</a></b>
-"""
+○ ᴄʀᴇᴀᴛᴏʀ : [Diago](https://t.me/Diago_x)
 
 **ᴜᴘᴅᴀᴛᴇᴅ ᴏɴ 26-4-21 ɪɴᴅɪᴀɴ ᴛɪᴍᴇ 4:50 ᴘᴍ**
 
-**[©FISCO LAB](https://t.me/FISCO_LAB)**
+**[©ᴛʀᴀᴄᴋsᴛᴜᴅɪᴏ's ʙᴏᴛ](https://t.me/fisco_lab)**
 """
