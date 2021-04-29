@@ -44,7 +44,7 @@ class Translation(object):
 *[©FISCO LAB](https://t.me/fisco_lab)*
 """
     
- • My Name     : OMEGA
+ • My Name     : Omega
     
  • Creator     : [DIAGO](https://t.me/DIAGO_X)&[FICO LAB](https://t.me:/FISCO_LAB)
 
