@@ -1,70 +1,54 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-# (c) @AlbertEinsteinTG | @Hillard_Har 
+# (c) @v_spot
 
 class Translation(object):
     
-    START_TEXT = """
-😅 Hai {}, 
+    START_TEXT = """<b>Hey {}!!</b>
+<i> How are you 🤷‍♂
 
-I am a filter bot with advanced features 
-currently working for @{Film_zone_Group}
+ ɪ ᴀᴍ ᴀ ᴀᴜᴛᴏ ғɪʟᴛᴇʀ ʙᴏᴛ sɪᴍᴘʟʏ sᴇᴀʀᴄʜ ғᴏʀ ᴛʜᴇ ғɪʟᴇs ᴍᴀᴅᴇ ғᴏʀ <b><i><a href="https://t.me/Film_zone_group">Film_Zone™</a></i></b>
+ᴀᴄᴄᴏʀᴅɪɴɢ ᴛᴏ ɢɪᴠᴇɴ ᴏ̨ᴜᴇʀʏ ᴀɴᴅ ɢɪᴠᴇs ʟɪɴᴋ ᴛᴏ ᴛʜᴏsᴇ ғɪʟᴇs ᴀs ʙᴜᴛᴛᴏɴs
 
-⚜️ 𝐌𝐚𝐢𝐧𝐭𝐚𝐢𝐧𝐞𝐝 𝐁𝐲 👉 @{Diago_x}
-"""   
+🔱 ᴍᴀɪɴᴛᴀɪɴᴇᴅ ʙʏ 👉 @V_spot
+</i>"""    
     
     HELP_TEXT = """
-<u>💡 𝐇𝐞𝐥𝐩</u>
-
+<b><i><u>How To Use Me!?</u></i></b>
 <i>
-📌 Add Me To Any Group And Make Me Admin
-📌 Add Me To Your Desired Channel
+⭕ <b>Add Me To Any Group And Make Me Admin</b>
+⭕ <b>Add Me To Your Desired Channel</b>
 </i>
-
-<b>🔰 𝐌𝐲 𝐂𝐨𝐦𝐦𝐚𝐧𝐝𝐬 (Works Only In Groups) :</b>
-
-    👉 <code>/add chat_id</code>
+<b>Bot Commands (Works Only In Groups) :</b>
+    🔷 <code>/add chat_id</code>
                 OR                  - To Connect A Group With A Channel (Bot Should Be Admin With Full Previlages In Both Group And Channel)
      <code>/add @Username</code>
      
-    👉 <code>/del chat_id</code>
+    🔷 <code>/del chat_id</code>
                 OR                  - To disconnect A Group With A Channel
      <code>/del @Username</code>
      
-    👉 <code>/delall</code>  - This Command Will Disconnect All Connected Channel With The Group And Deletes All Its File From DB
+    🔷 <code>/delall</code>  - This Command Will Disconnect All Connected Channel With The Group And Deletes All Its File From DB
     
-    👉 <code>/settings</code> -  This Command Will Display You A Settings Pannel Instance Which Can Be Used To Tweek Bot's Settings Accordingly
-
-🔰 𝐒𝐄𝐓𝐓𝐈𝐍𝐆 𝐏𝐀𝐍𝐄𝐋
-
-            👉 <code>Channel</code> - Button Will Show You All The Connected Chats With The Group And Will Show Buttons Correspnding To There Order For Furthur Controls
+    🔷 <code>/settings</code> -  This Command Will Display You A Settings Pannel Instance Which Can Be Used To Tweek Bot's Settings Accordingly
+            🔷 <code>Channel</code> - Button Will Show You All The Connected Chats With The Group And Will Show Buttons Correspnding To There Order For Furthur Controls
             
-            👉 <code>Filter Types</code> - Button Will Show You The 3 Filter Option Available In Bot... Pressing Each Buttons Will Either Enable or Disable Them And This Will Take Into Action As Soon As You Use Them Without The Need Of A Restart
-
-            👉 <code>Configure</code> - Button Will Helps You To Change No. of Pages/ Buttons Per Page/ Total Result Without Acutally Editing The Repo... Also It Provide Option To Enable/Disable For Showing Invite Link In Each Results
+            🔷 <code>Filter Types</code> - Button Will Show You The 3 Filter Option Available In Bot... Pressing Each Buttons Will Either Enable or Disable Them And This Will Take Into Action As Soon As You Use Them Without The Need Of A Restart
             
-            👉 <code>Status</code> - Button Will Shows The Stats Of Your Channel
+🔷 <code>Configure</code> - Button Will Helps You To Change No. of Pages/ Buttons Per Page/ Total Result Without Acutally Editing The Repo... Also It Provide Option To Enable/Disable For Showing Invite Link In Each Results
             
-<b><a href="https://t.me/Fisco_lab">©️ Fiscolab's ʙᴏᴛs</a></b>
+            🔷 <code>Status</code> - Button Will Shows The Stats Of Your Channel
+            
+@v_spot
 """
     
-    ABOUT_TEXT = """
-📕 𝐀𝐛𝐨𝐮𝐭 𝐌𝐞 ,
-\n○ ᴍʏ ɴᴀᴍᴇ : {Omega}
+    ABOUT_TEXT = """<b>💠 My Name</b> : <code> Fz Links </code>
+    
+<b>💠 Creator</b> : <b><i><a href="https://t.me/v_spot">v_spot</a></i></b>
 
-○ ʟᴀɴɢᴜᴀɢᴇ : ᴘʏᴛʜᴏɴ 
+<b>💠 Language</b> : <code>Python3</code>
 
-○ ғʀᴀᴍᴇᴡᴏʀᴋ : ᴘʏʀᴏɢʀᴀᴍ 
+<b>💠 Library</b> : <i><a href="https://docs.pyrogram.org">Pyrogram</a></i>
 
-○ sᴇʀᴠᴇʀ : ʜᴇʀᴏᴋᴜ 
-
-○ ᴠᴇʀsɪᴏɴ : 1.0.0
-
-○ sᴏᴜʀᴄᴇ ᴄᴏᴅᴇ : 🔒
-
-○ ᴄʀᴇᴀᴛᴏʀ : [Diago](https://t.me/Diago_x)
-
-**ᴜᴘᴅᴀᴛᴇᴅ ᴏɴ 26-4-21 ɪɴᴅɪᴀɴ ᴛɪᴍᴇ 4:50 ᴘᴍ**
-
-**[©ᴛʀᴀᴄᴋsᴛᴜᴅɪᴏ's ʙᴏᴛ](https://t.me/fisco_lab)**
+<b>💠 Source Code</b> : <i>🔐</i>
 """
