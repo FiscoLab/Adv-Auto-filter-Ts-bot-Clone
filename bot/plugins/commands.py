@@ -39,7 +39,7 @@ async def start(bot, update):
                         [
                             InlineKeyboardButton
                                 (
-                                    '📫 SUPPORT', url="https://t.me/Ts_bots"
+                                    '🌐SHARE', url="https://t.me/share/url?url=https://t.me/film_zone_group"
                                 )
                         ]
                     ]
@@ -77,7 +77,7 @@ async def start(bot, update):
                         [
                             InlineKeyboardButton
                                 (
-                                    '📫 SUPPORT', url="https://t.me/Ts_bots"
+                                    '🌐SHARE', url="https://t.me/share/url?url=https://t.me/film_zone_group"
                                 )
                         ]
                     ]
