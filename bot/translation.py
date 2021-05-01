@@ -5,10 +5,13 @@
 class Translation(object):
     
     START_TEXT = """
-😅 Hai {}, 
+👻 Hey {}, 
 
-I am a filter bot with advanced features 
-currently working for @Film_Zone_Group
+
+
+ ɪ ᴀᴍ ᴀ ᴀᴜᴛᴏ ғɪʟᴛᴇʀ ʙᴏᴛ sɪᴍᴘʟʏ sᴇᴀʀᴄʜ ғᴏʀ ᴛʜᴇ ғɪʟᴇs ᴍᴀᴅᴇ ғᴏʀ @Film_Zone_group
+ᴀᴄᴄᴏʀᴅɪɴɢ ᴛᴏ ɢɪᴠᴇɴ ᴏ̨ᴜᴇʀʏ ᴀɴᴅ ɢɪᴠᴇs ʟɪɴᴋ ᴛᴏ ᴛʜᴏsᴇ ғɪʟᴇs ᴀs ʙᴜᴛᴛᴏɴs
+
 
 ⚜️ 𝐌𝐚𝐢𝐧𝐭𝐚𝐢𝐧𝐞𝐝 𝐁𝐲 👉 @DIAGO_X
 """   
@@ -50,7 +53,7 @@ currently working for @Film_Zone_Group
     
     ABOUT_TEXT = """
 📕 𝐀𝐛𝐨𝐮𝐭 𝐌𝐞 ,
-\n○ ᴍʏ ɴᴀᴍᴇ : omega
+\n○ ᴍʏ ɴᴀᴍᴇ : stella
 
 ○ ʟᴀɴɢᴜᴀɢᴇ : ᴘʏᴛʜᴏɴ 
 
