@@ -1,4 +1,4 @@
-#!/usr/bin/env python3
+#!/usr/bin/env python3o
 # -*- coding: utf-8 -*-
 # (c) @AlbertEinsteinTG | @Hillard_Har  
 
@@ -26,13 +26,13 @@ async def start(bot, update):
         
         caption = file_caption if file_caption != ("" or None) else ("<code>" + file_name + """</code>\n<b>━━━━━━━━━━━━━━━━━━━━
 🌐 ɢʀᴏᴜᴘ
-@Groupname
+@Film_Zone_Group
   
 💠ᴄʜᴀɴɴᴇʟ
-@channelname
+@film_Zone_Fz
 
 💠 ᴄʜᴀɴɴᴇʟs
-@channelname</b>""")
+@Film_Zone_Channels</b>""")
         
         if file_type == "document":
         
