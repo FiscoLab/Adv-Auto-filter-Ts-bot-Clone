@@ -46,7 +46,7 @@ class Translation(object):
             
             👉 <code>Status</code> - Button Will Shows The Stats Of Your Channel
             
-<b><a href="https://t.me/fisco_lab">©️ Fisco Lab</a></b>
+
 """
     
     ABOUT_TEXT = """
@@ -66,6 +66,3 @@ class Translation(object):
 ○ ᴄʀᴇᴀᴛᴏʀ : [DIAGO](https://t.me/diago_x)
 
 **ᴜᴘᴅᴀᴛᴇᴅ ᴏɴ 26-4-21 ɪɴᴅɪᴀɴ ᴛɪᴍᴇ 4:50 ᴘᴍ**
-
-**[©FISCO_LAB](https://t.me/Fisco_lab)**
-"""
