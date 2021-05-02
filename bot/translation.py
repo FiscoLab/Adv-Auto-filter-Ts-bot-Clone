@@ -51,7 +51,7 @@ class Translation(object):
     
     ABOUT_TEXT = """
 📕 𝐀𝐛𝐨𝐮𝐭 𝐌𝐞 ,
-\n○ ᴍʏ ɴᴀᴍᴇ : stella
+\n○ ᴍʏ ɴᴀᴍᴇ : Magna
 
 ○ ʟᴀɴɢᴜᴀɢᴇ : ᴘʏᴛʜᴏɴ 
 
