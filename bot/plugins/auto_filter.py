@@ -106,7 +106,7 @@ async def auto_filter(bot, update):
                 ]
             )
         
-    else:await bot.send_message(update.chat.id,text="check spelling")
+    else:
         return # return if no files found for that query
     
 
