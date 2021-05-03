@@ -28,7 +28,7 @@ async def auto_filter(bot, update):
     if ("https://" or "http://") in update.text:
         return
     
-    query = re.sub(r"[1-3]\d{4}", "", update.text) # Targetting Only 1000 - 2999 😁
+    query = re.sub(r"[1-2]\d{3}", "", update.text) # Targetting Only 1000 - 2999 😁
     
     if len(query) < 2:
         return
@@ -184,7 +184,7 @@ async def auto_filter(bot, update):
         try:
             await bot.send_message(
                 chat_id = update.chat.id,
-                text=f"**😃 Got it \n\nYour Query 👉 {query}** \n\n©[ꜰɪʟᴍ ᴢᴏɴᴇ](http://t.me/film_zone_Group)",
+                text=f"**😃 Got it \n\nYour Query 👉 {query}**\n\n©[ꜰɪʟᴍ ᴢᴏɴᴇ](http://t.me/film_zone_Group)",
                 reply_markup=reply_markup,
                 parse_mode="markdown",
                 reply_to_message_id=update.message_id
