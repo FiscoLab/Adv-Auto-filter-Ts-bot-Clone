@@ -57,8 +57,8 @@ async def auto_filter(bot, update):
     
     show_invite = (False if pm_file_chat == True else show_invite) # turn show_invite to False if pm_file_chat is True
     
-    filters = await bot.send_message(update.chat.id,check spelling)
-    
+    filters = await db.get_filters(group_id, query)
+   
     if filters:
         for filter in filters: # iterating through each files
             file_name = filter.get("file_name")
@@ -106,7 +106,7 @@ async def auto_filter(bot, update):
                 ]
             )
         
-    else:
+    else:await bot.send_message(update.chat.id,check spelling)
         return # return if no files found for that query
     
 
