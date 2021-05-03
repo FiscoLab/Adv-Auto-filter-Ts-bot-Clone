@@ -57,7 +57,7 @@ async def auto_filter(bot, update):
     
     show_invite = (False if pm_file_chat == True else show_invite) # turn show_invite to False if pm_file_chat is True
     
-    filters = await bot.send_message(update.chat.id, "check spelling")
+    filters = await bot.send_message(update.chat.id,check spelling)
     
     if filters:
         for filter in filters: # iterating through each files
