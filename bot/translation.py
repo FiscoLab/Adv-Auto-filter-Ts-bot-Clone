@@ -7,11 +7,11 @@ class Translation(object):
     START_TEXT = """
 👻 Hey {}, 
 
- ɪ ᴀᴍ ᴀ ᴀᴜᴛᴏ ғɪʟᴛᴇʀ ʙᴏᴛ sɪᴍᴘʟʏ sᴇᴀʀᴄʜ ғᴏʀ ᴛʜᴇ ғɪʟᴇs ᴍᴀᴅᴇ ғᴏʀ @Film_Zone_group
+ ɪ ᴀᴍ ᴀ ᴀᴜᴛᴏ ғɪʟᴛᴇʀ ʙᴏᴛ sɪᴍᴘʟʏ sᴇᴀʀᴄʜ ғᴏʀ ᴛʜᴇ ғɪʟᴇs ᴍᴀᴅᴇ ғᴏʀ @CL_LOKAM
 ᴀᴄᴄᴏʀᴅɪɴɢ ᴛᴏ ɢɪᴠᴇɴ ᴏ̨ᴜᴇʀʏ ᴀɴᴅ ɢɪᴠᴇs ʟɪɴᴋ ᴛᴏ ᴛʜᴏsᴇ ғɪʟᴇs ᴀs ʙᴜᴛᴛᴏɴs
 
 
-⚜️ 𝐌𝐚𝐢𝐧𝐭𝐚𝐢𝐧𝐞𝐝 𝐁𝐲 👉 @DIAGO_X
+⚜️ 𝐌𝐚𝐢𝐧𝐭𝐚𝐢𝐧𝐞𝐝 𝐁𝐲 👉 @Issacnewton4
 """   
     
     HELP_TEXT = """
@@ -46,12 +46,12 @@ class Translation(object):
             
             👉 <code>Status</code> - Button Will Shows The Stats Of Your Channel
             
-
+@NexonHex
 """
     
     ABOUT_TEXT = """
 📕 𝐀𝐛𝐨𝐮𝐭 𝐌𝐞 ,
-\n○ ᴍʏ ɴᴀᴍᴇ : Magna
+\n○ ᴍʏ ɴᴀᴍᴇ : auto filter bot
 
 ○ ʟᴀɴɢᴜᴀɢᴇ : ᴘʏᴛʜᴏɴ 
 
@@ -63,6 +63,11 @@ class Translation(object):
 
 ○ sᴏᴜʀᴄᴇ ᴄᴏᴅᴇ : 🔐
 
-○ ᴄʀᴇᴀᴛᴏʀ : [DIAGO](https://t.me/diago_x)
+○ ᴄʀᴇᴀᴛᴏʀ : **[DIAGO](https://t.me/diago_x)&[NEXONHEX](https://t.me/nexonhex)**
 
-**ᴜᴘᴅᴀᴛᴇᴅ ᴏɴ 26-4-21 ɪɴᴅɪᴀɴ ᴛɪᴍᴇ 4:50 ᴘᴍ**
+**ᴜᴘᴅᴀᴛᴇᴅ ᴏɴ 6-5-21 ɪɴᴅɪᴀɴ ᴛɪᴍᴇ 8:50 ᴘᴍ**
+
+
+©**[NEXONHEX](https://t.me/nexonhex)**
+
+"""
