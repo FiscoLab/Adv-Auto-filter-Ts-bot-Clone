@@ -24,15 +24,7 @@ async def start(bot, update):
         if (file_id or file_type) == None:
             return
         
-        caption = file_caption if file_caption != ("" or None) else ("<code>" + file_name + """</code>\n<b>━━━━━━━━━━━━━━━━━━━━
-🌐 ɢʀᴏᴜᴘ
-@Film_Zone_Group
-  
-💠ᴄʜᴀɴɴᴇʟ
-@film_Zone_Fz
-
-💠 ᴄʜᴀɴɴᴇʟs
-@Film_Zone_Channels</b>""")
+        caption = file_caption if file_caption != ("" or None) else ("<code>" + file_name + """</code>\n© NexonHex""")
         
         if file_type == "document":
         
@@ -47,7 +39,7 @@ async def start(bot, update):
                         [
                             InlineKeyboardButton
                                 (
-                                    '🌐SHARE', url="https://t.me/share/url?url=https://t.me/film_zone_group"
+                                    '📫DEVELOPERS', url="https://t.me/NexonHex"
                                 )
                         ]
                     ]
@@ -66,7 +58,7 @@ async def start(bot, update):
                         [
                             InlineKeyboardButton
                                 (
-                                    '⚠️JOIN', url="https://t.me/Film_zone_fz"
+                                    '📫DEVELOPERS', url="https://t.me/NexonHex"
                                 )
                         ]
                     ]
@@ -85,7 +77,7 @@ async def start(bot, update):
                         [
                             InlineKeyboardButton
                                 (
-                                    '🌐SHARE', url="https://t.me/share/url?url=https://t.me/film_zone_group"
+                                    '📫DEVELOPERS', url="https://t.me/NexonHex"
                                 )
                         ]
                     ]
@@ -98,7 +90,7 @@ async def start(bot, update):
         return
 
     buttons = [[
-        InlineKeyboardButton('⚠️JOIN', url='https://t.me/Film_Zone_Fz'),
+        InlineKeyboardButton('📫DEVELOPERS', url="https://t.me/NexonHex")
         InlineKeyboardButton('📕 ABOUT', callback_data="about")
     ],[
         InlineKeyboardButton('💡 HELP', callback_data="help"),
