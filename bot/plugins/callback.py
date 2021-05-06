@@ -1609,7 +1609,7 @@ async def cb_about(bot, update: CallbackQuery):
         [
             #InlineKeyboardButton
                 #(
-                    #"😊 DEVELOPER", url="https://t.me/Diago_x"
+                    #"DEVELOPER", url="https://t.me/NEXONHEX"
                 #),
                 
             InlineKeyboardButton
@@ -1640,7 +1640,7 @@ async def callback_data(bot, update: CallbackQuery):
 
     if query_data == "start":
         buttons = [[
-        InlineKeyboardButton("Join📌", url="https://t.me/Film_zone_group"),
+        InlineKeyboardButton("📫DEVELOPERS', url="https://t.me/NexonHex"),
         InlineKeyboardButton("📕 ABOUT", callback_data="about")
     ],[
         InlineKeyboardButton("💡 HELP", callback_data="help"),
