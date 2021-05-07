@@ -1640,7 +1640,7 @@ async def callback_data(bot, update: CallbackQuery):
 
     if query_data == "start":
         buttons = [[
-        InlineKeyboardButton("📫DEVELOPERS', url="https://t.me/NexonHex"),
+        InlineKeyboardButton("📫DEVELOPERS", url="https://t.me/NexonHex"),
         InlineKeyboardButton("📕 ABOUT", callback_data="about")
     ],[
         InlineKeyboardButton("💡 HELP", callback_data="help"),
