@@ -1603,13 +1603,13 @@ async def cb_about(bot, update: CallbackQuery):
     text=f"<b><u>Bot's Status</u></b>\n"
     text+=f"\n<b>Bot's Uptime:</b> <code>{time_formatter(time.time() - start_uptime)}</code>\n"
     text+=f"\n<b>Bot Funtion:</b> <i>Auto Filter Files</i>\n"
-    text+=f"""\n<b>Bot Support:</b> <a href="https://t.me/nexonhex">NexonHex</a>\n"""
-    text+="""\n<b>Source Code: 🔐 """
+    text+=f"""\n<b>Bot Support:</b> <a href="https://t.me/Ts_bots">@Ts_Bots</a>\n"""
+    text+="""\n<b>Source Code:</b> <a href="https://github.com/Ts-Bots/Adv-Auto-filter-Ts-bot-Clone">Touch Here 🥰</a>"""
     buttons = [
         [
             #InlineKeyboardButton
                 #(
-                    #"DEVELOPER", url="https://t.me/NEXONHEX"
+                    #"😊 DEVELOPER", url="https://t.me/Ts_bots"
                 #),
                 
             InlineKeyboardButton
@@ -1640,7 +1640,7 @@ async def callback_data(bot, update: CallbackQuery):
 
     if query_data == "start":
         buttons = [[
-        InlineKeyboardButton("📫DEVELOPERS", url="https://t.me/NexonHex"),
+        InlineKeyboardButton("📫 SUPPORT", url="https://t.me/Ts_Bots"),
         InlineKeyboardButton("📕 ABOUT", callback_data="about")
     ],[
         InlineKeyboardButton("💡 HELP", callback_data="help"),
